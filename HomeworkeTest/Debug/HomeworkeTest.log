@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  HomeworkeTest.cpp
+C:\Users\90534\Desktop\Homework3\Homework3\Homework3\Huffman.cpp(72,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\90534\Desktop\Homework3\Homework3\Homework3\Huffman.cpp(76,12): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\90534\Desktop\Homework3\Homework3\Debug\HomeworkeTest.lib and object C:\Users\90534\Desktop\Homework3\Homework3\Debug\HomeworkeTest.exp
+  HomeworkeTest.vcxproj -> C:\Users\90534\Desktop\Homework3\Homework3\Debug\HomeworkeTest.dll

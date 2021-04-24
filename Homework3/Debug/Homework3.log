@@ -1,0 +1,10 @@
+﻿  ActivitySelection.cpp
+  FraktionalKnapsack.cpp
+  HeapSort.cpp
+  Homework3.cpp
+  Huffman.cpp
+C:\Users\90534\Desktop\Homework3\Homework3\Homework3\Huffman.cpp(72,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\90534\Desktop\Homework3\Homework3\Homework3\Huffman.cpp(76,12): warning C4018: '<': signed/unsigned mismatch
+  Knapsack.cpp
+  Generating Code...
+  Homework3.vcxproj -> C:\Users\90534\Desktop\Homework3\Homework3\Debug\Homework3.exe
